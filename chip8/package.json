@@ -1,0 +1,19 @@
+{
+  "name": "bobchip8",
+  "version": "1.0.0",
+  "description": "```html\r <div id=\"app\"></div>\r ```",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobframework/chip8.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobframework/chip8/issues"
+  },
+  "homepage": "https://github.com/bobframework/chip8#readme"
+}
